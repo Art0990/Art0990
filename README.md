@@ -1,16 +1,16 @@
-### Hi there 👋
+## Аналитик данных
 
-<!--
-**Art0990/Art0990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Меня зовут Вдовиченков Артем
+## Обо мне
 
-Here are some ideas to get you started:
+Владею навыками:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Инструменты:
+- SQL(PostgreSQL), 
+- Python (pandas, matplotlib, numpy, scipy, math, seaborn) .
+BI-системы:
+- Tableau
+Другие программы:
+- Microsoft Excel, Word, Power Point, StaffCop, «Мой Склад»
+
+
